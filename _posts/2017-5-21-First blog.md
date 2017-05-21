@@ -5,4 +5,4 @@
 I made a plan to finish Learn python the hard way in 2 weeks. 
 I created this blog to keep track of my progress each day and see if I would reach my goal.
 
-I will be using the resource on [learnpythonthehardway] (https://learnpythonthehardway.org/).
+I will be using the resource on https://learnpythonthehardway.org/
