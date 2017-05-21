@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Just another coding rookie...
-:frowning :frowning :frowning
+:frowning: :frowning: :frowning:
 
 
 ### Contact me
